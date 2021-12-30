@@ -22,5 +22,5 @@ while True:
         return "Tidak Ditemukan\n"
 
 
-    dicari = int(input("Masukkan angka yang dicari: "))
-    print("Hasil Linear Search -> " + str(linear_search(elkom1, dicari)))
+    cari = int(input("Masukkan angka yang dicari: "))
+    print("Hasil Linear Search -> " + str(linear_search(elkom1, cari)))
